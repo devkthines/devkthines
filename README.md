@@ -16,7 +16,7 @@
 
 ## 🌱 Growth: Learning TypeScript, SQL, Java, and React Native, one doc at a time, one lesson at a time, one practice project at a time.
 
-## ⚡ What energizes me: In my free time, I Volunteer, go to the gym,spend time with family, or practice coding.
+## ⚡ What energizes me: In my free time, I Volunteer, go to the gym, spend time with family, or practice coding.
 
 ---
 
