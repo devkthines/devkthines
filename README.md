@@ -4,6 +4,7 @@
   <a href="www.linkedin.com/in/korey-hines-17b0a9263">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+      <a href="mailto:dev.kthines@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=devkthines&style=flat-square&color=blue" alt=""/>
 </div>
@@ -16,7 +17,6 @@
 ## 🌱 Growth: Learning TypeScript, SQL, Java, and React Native, one doc at a time, one lesson at a time, one practice project at a time.
 
 ## ⚡ What energizes me: In my free time, I Volunteer, go to the gym,spend time with family, or practice coding.
-## 📫 :How to reach me ? [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) : <a href="mailto:dev.kthines@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 
