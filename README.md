@@ -10,7 +10,13 @@
 
 ---
 
-# 👨‍💻 About Me :
+# 👨‍💻 About Me : I am a passionate JR. Web Developer with a love for learning
+# 🔭 The Scope of my Reality : I’m working at Simplot while I pursue building myself up to start a career in Tech.
+
+# 🌱 Growth: Learning TypeScript, SQL, Java, and React Native, one doc at a time, one lesson at a time, one practice project at a time.
+
+# ⚡ What energizes me: In my free time, I Volunteer, go to the gym,spend time with family, or practice coding.
+# :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
