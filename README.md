@@ -11,10 +11,10 @@
 
 ---
 
-## 👨‍💻 About Me : I am a passionate JR. Web Developer with a love for learning
-## 🔭 The Scope of my Reality : I’m working at Simplot while I pursue building myself up to start a career in Tech.
+## 👨‍💻 About Me : I am a passionate JR. Web Developer with a love for learning.
+## 🔭 The Scope of my Reality : I’m working at Simplot while I pursue building myself up to start a career in Tech. I am currently finishing up projects I am working on to launch my portfolio in November to move forward into what my goals are.
 
-## 🌱 Growth: Learning TypeScript, SQL, Java, and React Native, one doc at a time, one lesson at a time, one practice project at a time.
+## 🌱 Growth: Currently Learning Python through a course provided by University of Michigan on Coursera.
 
 ## ⚡ What energizes me: In my free time, I Volunteer, go to the gym, spend time with family, or practice coding.
 
