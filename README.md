@@ -12,9 +12,8 @@
 ---
 
 ## 👨‍💻 About Me : I am a passionate JR. Web Developer with a love for learning.
-## 🔭 The Scope of my Reality : I’m working at Simplot while I pursue building myself up to start a career in Tech. I am currently finishing up projects I am working on to launch my portfolio in November to move forward into what my goals are.
 
-## 🌱 Growth: Currently Learning Python through a course provided by University of Michigan on Coursera.
+## 🌱 Growth: Completed a Python Certificate through the University of Michigan and Learned OpenAI.
 
 ## ⚡ What energizes me: In my free time, I Volunteer, go to the gym, spend time with family, or practice coding.
 
