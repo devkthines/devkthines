@@ -53,12 +53,8 @@
 ## 🔥 My Stats:
 
 <div align='center'>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkthines&theme=gotham&border_radius=10&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkthines&show_icons=true&theme=gotham&layout=compact)](https://github.com/devkthines/github-readme-stats)
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkthines&show_icons=true&locale=en" alt="devkthines" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkthines&" alt="devkthines" /></p>
-
+<img src="http://github-readme-streak-stats.herokuapp.com?user=devkthines&theme=gotham&border_radius=10&date_format=%5BY.%5Dn.j" alt="devkthines" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkthines&show_icons=true&theme=gotham&layout=compact" alt="devkthines" />
 </div>
 <!--
 **devkthines/devkthines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
