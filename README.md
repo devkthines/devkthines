@@ -34,17 +34,32 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="next.js" **alt="Git" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="next.js" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" **alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  
 </div>
 
 ---
 
 ## 🔥 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkthines&theme=gotham&border_radius=10&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+<div align='center'>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkthines&theme=gotham&border_radius=10&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkthines&show_icons=true&theme=gotham&layout=compact)](https://github.com/devkthines/github-readme-stats)
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkthines&show_icons=true&locale=en" alt="devkthines" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkthines&" alt="devkthines" /></p>
+
+</div>
 <!--
 **devkthines/devkthines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
