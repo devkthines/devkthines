@@ -53,7 +53,7 @@
 ## 🔥 My Stats:
 
 <div align='center'>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=devkthines&theme=gotham&border_radius=10&date_format=%5BY.%5Dn.j" alt="devkthines" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devkthines&theme=prussian" alt="GitHub Streak" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkthines&show_icons=true&theme=gotham&layout=compact" alt="devkthines" />
 </div>
 <!--
