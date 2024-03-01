@@ -11,9 +11,9 @@
 
 ---
 
-## 👨‍💻 About Me : I am a passionate JR. Web Developer with a love for learning.
+## 👨‍💻 About Me : I am a passionate JR. Web Developer with a love for learning, and refine my craft.
 
-## 🌱 Growth: Completed a Python Certificate through the University of Michigan and Learned OpenAI.
+## 🌱 Growth: Completed a Python Certificate through the University of Michigan and Learned OpenAI; Currently in a Software Engineering Bootcamp Through Columbia University.
 
 ## ⚡ What energizes me: In my free time, I Volunteer, go to the gym, spend time with family, or practice coding.
 
