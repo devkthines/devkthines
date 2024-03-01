@@ -11,11 +11,11 @@
 
 ---
 
-## 👨‍💻 About Me : <I am a passionate JR. Web Developer with a love for learning. />
+## 👨‍💻 About Me : I am a passionate JR. Web Developer with a love for learning.
 
-## 🌱 Growth: <Currently in a Software Engineering Bootcamp Through Columbia University. />
+## 🌱 Growth: Currently in a Software Engineering Bootcamp Through Columbia University.
 
-## ⚡ What energizes me: <In my free time, I Volunteer, go to the gym, spend time with family, or practice coding. />
+## ⚡ What energizes me: In my free time, I Volunteer, go to the gym, spend time with family, or practice coding.
 
 ---
 
