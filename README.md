@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me : I am a passionate JR. Web Developer with a love for learning.
+## 👨‍💻 About Me : I am a passionate Web Developer with a love for learning.
 
 ## 🌱 Growth: Currently in a Software Engineering Bootcamp Through Columbia University.
 
